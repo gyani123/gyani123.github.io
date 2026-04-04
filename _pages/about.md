@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. TU Graz, Austria.
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Curiosity driven Researcher</p>
     <p>8010, Graz, Austria</p>
