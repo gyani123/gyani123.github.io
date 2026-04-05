@@ -47,19 +47,19 @@ cv:
           - Mechanistic Model of Replication fork dynamics
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: TU Graz
+        position: PhD Researcher
+        location: Graz, Austria
+        start_date: 2024
+        end_date: 2026
+        summary: Astrocytic Leaky Blood Brain Barrier
         highlights:
-          - Relativity
+          - Modeling Activity
           - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
+      - company: IIT Hyderabad
+        position: AI Researcher
+        location: Hyderabad, India
         start_date: 1933
         end_date: 1933
         highlights:
