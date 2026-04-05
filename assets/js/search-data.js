@@ -496,9 +496,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+            },},{id: "teachings-cognition-of-motor-movements",
+          title: 'Cognition of Motor Movements',
+          description: "Motor Movements corresponds to different types of movements we correspont to daily life",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-science-fundamentals/";
             },},{id: "teachings-introduction-to-machine-learning",
