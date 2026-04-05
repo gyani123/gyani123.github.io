@@ -1,17 +1,20 @@
 ---
 layout: course
-title: Data Science Fundamentals
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
-term: Spring
-location: Science Building, Room 202
+title: Cognition of Motor Movements
+description: Motor Movements corresponds to different types of movements we correspont to daily life
+instructor: Dr. Sonia Baloni Ray
+year: 2020
+term: Monsoon
+location: Research Building, IIITD
 time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
+course_id: PSY308
+link: https://techtree.iiitd.edu.in/viewDescription/filename?=PSY308
+
+
 schedule:
   - week: 1
     date: Feb 5
-    topic: Introduction to Data Science
+    topic: Types of Action
     description: Overview of the data science workflow and key concepts.
     materials:
       - name: Syllabus
@@ -21,7 +24,7 @@ schedule:
 
   - week: 2
     date: Feb 12
-    topic: Data Collection and APIs
+    topic: Issues of Motor Control
     description: Methods for collecting data through APIs, web scraping, and databases.
     materials:
       - name: Lecture Notes
@@ -31,7 +34,7 @@ schedule:
 
   - week: 3
     date: Feb 19
-    topic: Data Cleaning and Preprocessing
+    topic: Psychology of Action
     description: Techniques for handling missing values, outliers, and data transformation.
     materials:
       - name: Lecture Notes
@@ -41,7 +44,7 @@ schedule:
 
   - week: 4
     date: Feb 26
-    topic: Exploratory Data Analysis
+    topic: Neurophysiology of Motor Movement
     description: Descriptive statistics, visualization, and pattern discovery.
     materials:
       - name: Lecture Notes
@@ -51,7 +54,7 @@ schedule:
 
   - week: 5
     date: Mar 4
-    topic: Statistical Analysis
+    topic: Spatial Navigation and Reaching-Grasping
     description: Hypothesis testing, confidence intervals, and statistical inference.
     materials:
       - name: Lecture Notes
@@ -61,7 +64,7 @@ schedule:
 
   - week: 6
     date: Mar 11
-    topic: Data Visualization
+    topic: Eye Movement and Eye-Hand Coordination
     description: Principles and tools for effective data visualization.
     materials:
       - name: Lecture Notes
@@ -72,12 +75,7 @@ schedule:
 
 ## Course Overview
 
-This course provides a comprehensive introduction to data science principles and practices. Students will:
-
-- Learn the end-to-end data science workflow
-- Gain practical experience with data manipulation tools
-- Develop skills in data visualization and communication
-- Apply statistical methods to derive insights from data
+This course provides a comprehensive introduction to human movements.
 
 ## Prerequisites
 
@@ -87,11 +85,11 @@ This course provides a comprehensive introduction to data science principles and
 
 ## Textbooks
 
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
+- Human Motor Control - David Rosenbaum
 
 ## Grading
 
-- Assignments: 50%
-- Project: 40%
-- Participation: 10%
+- Assignments: 30%
+- Class Test: 10%
+- Midterm: 30%
+- Semester: 30%
