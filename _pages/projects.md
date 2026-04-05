@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Interface of Research and Engineering.
+description: At the interface of research and engineering.
 nav: true
 nav_order: 3
 display_categories: [research, engineering]
